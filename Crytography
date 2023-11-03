@@ -1,0 +1,10 @@
+# Cryptography
+
+These are the questions I attempted from PicoCTF pertaining to Cryptography
+
+# Mod 26
+
+Using Rot 13 decoder, we get the flag
+picoCTF{next_time_I'll_try_2_rounds_of_rot13_TLcKBUdK}
+
+
